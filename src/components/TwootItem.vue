@@ -41,7 +41,6 @@ export default {
         box-sizing: border-box;
         cursor: pointer;
         transition: all .25s ease;
-        margin-bottom: 10px;
     }
 
     .twoot-item:hover{
